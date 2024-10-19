@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tallwindcss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mini_project"
+	}
+}
